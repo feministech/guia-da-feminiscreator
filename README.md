@@ -6,7 +6,7 @@ Como já diria Esopo:
 
 > Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.
 
-Por isso, nesse guia, vamos te mostrar como começar a produzir conteúdo, e como divulgar esse conteúdo produzido por vcoê.
+Por isso, nesse guia, vamos te mostrar como começar a produzir conteúdo, e como divulgar esse conteúdo produzido por você.
 
 # Sobre o quê posso produzir?
 
@@ -28,7 +28,7 @@ Logo, se você se dá bem com texto, ou quer melhorar a sua escrita, recomendo c
 
 ## Livestream
 
-Uma boa forma de começar a produzir conteúdo é fazendo lives. Essas lives podem ser programando, estudando, ou apenas conversando sobre tecnologia. É uma forma interessante porquê é bem descontraída, e de baixo investimento. O problema das lives é que você terá de se expor. No começo pode ser mais difícil, mas ao longo do tempo você vai se soltando e aprendendo melhor como stremar.
+Uma boa forma de começar a produzir conteúdo é fazendo lives. Essas lives podem ser programando, estudando, ou apenas conversando sobre tecnologia. É uma forma interessante porquê é bem descontraída, e de baixo investimento. O problema das lives é que você terá de se expor. No começo pode ser mais difícil, mas ao longo do tempo você vai se soltando e aprendendo melhor como fazer as suas lives.
 
 Nós da Feministech, temos um outro guia chamado [Guia da Feministreamer](https://github.com/feministech/guia-da-feministreamer) dedicado á ensinar como começar a fazer lives.
 
@@ -52,7 +52,7 @@ Você pode começar nesse método sem experiência anterior, e ir evoluindo pass
 
 Para divulgar seu conteúdo, você pode tanto divulgar em suas próprias redes, mas isso depende muito do seu alcance nas mídias sociais, ou também divulgar em uma comunidade, que é o método que utilizamos na Feministech.
 
-Comunidades geralmente já tem uma base maior nas mídias sociais, logo, divulgar oseu conteúdo em uma comunidade é muito interessante para aumentar a quantidade de pessoas que vão achar o seu conteúdo, além de ter todo um ambiente que vai te auxiliar na produção, revisão, e divulgação do conteúdo.
+Comunidades geralmente já tem uma base maior nas mídias sociais, logo, divulgar o seu conteúdo em uma comunidade é muito interessante para aumentar a quantidade de pessoas que vão achar o seu conteúdo, além de ter todo um ambiente que vai te auxiliar na produção, revisão, e divulgação do conteúdo.
 
 # Finalização
 
